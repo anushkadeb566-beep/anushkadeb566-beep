@@ -2,19 +2,18 @@
   ╔══════════════════════════════════════════════════════════════╗
   ║   ANUSHKA DEB — GITHUB PROFILE README                         ║
   ║   Replace every instance of "AnushkaDeb" with your GitHub     ║
-  ║   username, and swap the social links in the "Connect"        ║
-  ║   section with your real handles/URLs.                        ║
+  ║   username so the tech icons and badges resolve correctly.    ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
 <!-- ============ ANIMATED HERO BANNER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D0221,50:1B1035,100:2A1458&text=ANUSHKA%20DEB&fontColor=E9E4FF&fontSize=52&fontAlignY=38&desc=Engineer%20%E2%80%A2%20AI%20%2F%20ML%20Explorer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EAF2FF,50:D3E4FF,100:BBD6FF&text=ANUSHKA%20DEB&fontColor=1E3A8A&fontSize=52&fontAlignY=38&desc=Engineer%20%E2%80%A2%20AI%20%2F%20ML%20Explorer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner"/>
 
 <!-- ============ ANIMATED TYPING SVG ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Electronics+%26+Communication+Engineer;AI+%2F+ML+%2F+Data+Science+Enthusiast;Turning+%22what+ifs%22+into+working+code;Currently+debugging+the+universe...+and+my+code" alt="typing-svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Electronics+%26+Communication+Engineer;AI+%2F+ML+%2F+Data+Science+Enthusiast;Turning+%22what+ifs%22+into+working+code" alt="typing-svg"/>
 </a>
 
 </div>
@@ -23,7 +22,7 @@
 
 <!-- ============ AI DIVIDER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=3&section=header&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BBD6FF,100:EAF2FF&height=3&section=header&width=100%" />
 </p>
 
 <br/>
@@ -35,7 +34,7 @@
 
 ### 🜁&nbsp; ABOUT THE ARCHITECT
 
-<img src="https://img.shields.io/badge/-●%20SYSTEM%20ONLINE-0D0221?style=flat-square&labelColor=0D0221&color=A78BFA" />
+<img src="https://img.shields.io/badge/-●%20SYSTEM%20ONLINE-EAF2FF?style=flat-square&labelColor=EAF2FF&color=2563EB" />
 
 <br/><br/>
 
@@ -62,7 +61,7 @@ I don't just write code. I chase the *"what if"* until it becomes something real
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=3&section=header&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BBD6FF,100:EAF2FF&height=3&section=header&width=100%" />
 </p>
 
 <br/>
@@ -87,21 +86,21 @@ I don't just write code. I chase the *"what if"* until it becomes something real
 
 **◈ Data Science**
 <br/><br/>
-<img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=A78BFA" /><br/>
-<img src="https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=A78BFA" /><br/>
-<img src="https://img.shields.io/badge/Matplotlib-0D0221?style=for-the-badge&logo=plotly&logoColor=A78BFA" /><br/>
-<img src="https://img.shields.io/badge/Seaborn-0D0221?style=for-the-badge&logo=chartdotjs&logoColor=A78BFA" /><br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D0221?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Pandas-EAF2FF?style=for-the-badge&logo=pandas&logoColor=2563EB" /><br/>
+<img src="https://img.shields.io/badge/NumPy-EAF2FF?style=for-the-badge&logo=numpy&logoColor=2563EB" /><br/>
+<img src="https://img.shields.io/badge/Matplotlib-EAF2FF?style=for-the-badge&logo=plotly&logoColor=2563EB" /><br/>
+<img src="https://img.shields.io/badge/Seaborn-EAF2FF?style=for-the-badge&logo=chartdotjs&logoColor=2563EB" /><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-EAF2FF?style=for-the-badge&logo=scikitlearn&logoColor=2563EB" />
 
 </td>
 <td align="center" width="20%">
 
 **◈ AI / ML**
 <br/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=6366F1" /><br/>
-<img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=6366F1" /><br/>
-<img src="https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=6366F1" /><br/>
-<img src="https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=langchain&logoColor=6366F1" />
+<img src="https://img.shields.io/badge/TensorFlow-EAF2FF?style=for-the-badge&logo=tensorflow&logoColor=1D4ED8" /><br/>
+<img src="https://img.shields.io/badge/PyTorch-EAF2FF?style=for-the-badge&logo=pytorch&logoColor=1D4ED8" /><br/>
+<img src="https://img.shields.io/badge/OpenCV-EAF2FF?style=for-the-badge&logo=opencv&logoColor=1D4ED8" /><br/>
+<img src="https://img.shields.io/badge/LangChain-EAF2FF?style=for-the-badge&logo=langchain&logoColor=1D4ED8" />
 
 </td>
 <td align="center" width="20%">
@@ -141,7 +140,7 @@ I don't just write code. I chase the *"what if"* until it becomes something real
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=3&section=header&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BBD6FF,100:EAF2FF&height=3&section=header&width=100%" />
 </p>
 
 <br/>
@@ -161,7 +160,7 @@ I don't just write code. I chase the *"what if"* until it becomes something real
 
 ### 🎬 Netflix Content Analysis
 
-<img src="https://img.shields.io/badge/●%20COMPLETED-0D0221?style=for-the-badge&labelColor=0D0221&color=8B7FFF" />
+<img src="https://img.shields.io/badge/●%20COMPLETED-EAF2FF?style=for-the-badge&labelColor=EAF2FF&color=1D4ED8" />
 
 <br/><br/>
 
@@ -181,7 +180,7 @@ genre distribution & viewing patterns across Netflix's catalog.
 
 ### 🤖 LeetCode AI Mentor
 
-<img src="https://img.shields.io/badge/⚡%20CURRENTLY%20BUILDING-1B1035?style=for-the-badge&labelColor=1B1035&color=A78BFA" />
+<img src="https://img.shields.io/badge/⚡%20CURRENTLY%20BUILDING-D3E4FF?style=for-the-badge&labelColor=D3E4FF&color=2563EB" />
 
 <br/><br/>
 
@@ -201,7 +200,7 @@ and mentors you toward sharper problem-solving.
 
 ### 🌐 Project Codex
 
-<img src="https://img.shields.io/badge/🚧%20IN%20DEVELOPMENT-1B1035?style=for-the-badge&labelColor=1B1035&color=6366F1" />
+<img src="https://img.shields.io/badge/🚧%20IN%20DEVELOPMENT-D3E4FF?style=for-the-badge&labelColor=D3E4FF&color=1D4ED8" />
 
 <br/><br/>
 
@@ -237,11 +236,10 @@ Analysis   AI Mentor   Codex
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=3&section=header&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BBD6FF,100:EAF2FF&height=3&section=header&width=100%" />
 </p>
 
-<br/>
-
+<br/><br/>
 
 <!-- ============ CONNECTION PAGE ============ -->
 <h2 align="center">🜇&nbsp; ESTABLISH CONNECTION</h2>
@@ -266,7 +264,7 @@ Analysis   AI Mentor   Codex
 <br/>
 
 <a href="mailto:anushkadeb566@gmail.com">
-<img src="https://img.shields.io/badge/anushkadeb566%40gmail.com-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/anushkadeb566%40gmail.com-EAF2FF?style=for-the-badge&logo=gmail&logoColor=2563EB&labelColor=EAF2FF" />
 </a>
 
 <br/><br/>
@@ -285,7 +283,7 @@ Analysis   AI Mentor   Codex
 <br/>
 
 <a href="https://www.linkedin.com/in/anushka-deb-318702273">
-<img src="https://img.shields.io/badge/Anushka%20Deb-0D0221?style=for-the-badge&logo=linkedin&logoColor=6366F1&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Anushka%20Deb-EAF2FF?style=for-the-badge&logo=linkedin&logoColor=1D4ED8&labelColor=EAF2FF" />
 </a>
 
 <br/><br/>
@@ -305,10 +303,10 @@ Analysis   AI Mentor   Codex
 <br/><br/>
 
 <!-- ============ FOOTER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2A1458,50:1B1035,100:0D0221&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:BBD6FF,50:D3E4FF,100:EAF2FF&section=footer&animation=fadeIn"/>
 
 <p align="center">
-  <sub>◈ Designed in the dark, built with curiosity ◈</sub>
+  <sub>◈ Designed in the light, built with curiosity ◈</sub>
 </p>
 
 </div>
