@@ -242,187 +242,64 @@ Analysis   AI Mentor   Codex
 
 <br/>
 
-<!-- ============ GITHUB STATS ============ -->
-<h2 align="center">🜄&nbsp; SYSTEM METRICS</h2>
-<p align="center"><sub>Live telemetry from the codebase</sub></p>
 
-<br/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnushkaDeb&show_icons=true&theme=tokyonight&bg_color=0D0221&title_color=A78BFA&icon_color=6366F1&text_color=E9E4FF&border_color=2A1458&border_radius=16&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaDeb&layout=compact&theme=tokyonight&bg_color=0D0221&title_color=A78BFA&text_color=E9E4FF&border_color=2A1458&border_radius=16&hide_border=false" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AnushkaDeb&theme=tokyonight&background=0D0221&border=2A1458&stroke=2A1458&ring=6366F1&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E9E4FF&dates=8B7FFF&border_radius=16" />
-
-</div>
-
-<br/>
-
-<!-- ============ GITHUB TROPHY ============ -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnushkaDeb&theme=darkhub&no-frame=true&no-bg=false&margin-w=12&column=7" />
-
-</div>
-
-<br/>
-
-<!-- ============ CONTRIBUTION SNAKE ============ -->
-<div align="center">
-
-**◈ Contribution Flow**
-
-<img src="https://raw.githubusercontent.com/AnushkaDeb/AnushkaDeb/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
-
-<sub>⚠️ Snake animation requires a one-time GitHub Actions setup — see
-<a href="https://github.com/Platane/snk">Platane/snk</a> and add the generated workflow
-to a repo named exactly like your username.</sub>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=3&section=header&width=100%" />
-</p>
-
-<br/>
-
-<!-- ============ QUOTE CARD ============ -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote card"/>
-
-</div>
-
-<br/>
-
-<!-- ============ RANDOM AI QUOTE ============ -->
-<h2 align="center">🜅&nbsp; TRANSMISSION FROM THE MACHINE</h2>
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-
-*"The question of whether machines can think is about as relevant<br/>
-as the question of whether submarines can swim."*
-<br/><br/>
-— **Edsger W. Dijkstra**
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=3&section=header&width=100%" />
-</p>
-
-<br/>
-
-<!-- ============ ACHIEVEMENT SHOWCASE ============ -->
-<h2 align="center">🜆&nbsp; ACHIEVEMENT VAULT</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-<br/>
-
-🏆
-
-<br/>
-
-**More to come.**
-<br/>
-<sub>This vault is being built one milestone at a time.</sub>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ============ EXPANDABLE: BEYOND CODE ============ -->
-<div align="center">
-
-<details>
-<summary><b>◈ A note beyond the code</b></summary>
-<br/>
-
-I believe engineering is less about knowing every answer, and more about
-being unafraid of the questions. Every project here starts with a spark
-of curiosity — and a stubborn refusal to let a "what if" go unanswered.
-
-</details>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=3&section=header&width=100%" />
-</p>
-
-<br/>
-
-<!-- ============ VISITOR + FOLLOWERS ============ -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AnushkaDeb&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge&labelColor=0D0221" />
-<img src="https://img.shields.io/github/followers/AnushkaDeb?label=FOLLOWERS&style=for-the-badge&labelColor=0D0221&color=A78BFA" />
-
-</div>
-
-<br/>
-
-<!-- ============ CONNECT WITH ME ============ -->
+<!-- ============ CONNECTION PAGE ============ -->
 <h2 align="center">🜇&nbsp; ESTABLISH CONNECTION</h2>
+<p align="center"><sub>Two open channels. Reach out anytime.</sub></p>
+
+<br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=6366F1" />
+<table>
+<tr>
+<td align="center" width="260">
+
+<br/>
+
+📡
+
+<br/><br/>
+
+**Email**
+
+<br/>
+
+<a href="mailto:anushkadeb566@gmail.com">
+<img src="https://img.shields.io/badge/anushkadeb566%40gmail.com-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D0221" />
 </a>
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
+
+<br/><br/>
+
+</td>
+<td align="center" width="260">
+
+<br/>
+
+🔗
+
+<br/><br/>
+
+**LinkedIn**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/anushka-deb-318702273">
+<img src="https://img.shields.io/badge/Anushka%20Deb-0D0221?style=for-the-badge&logo=linkedin&logoColor=6366F1&labelColor=0D0221" />
 </a>
-<a href="https://twitter.com/YOUR-HANDLE">
-<img src="https://img.shields.io/badge/Twitter-0D0221?style=for-the-badge&logo=x&logoColor=E9E4FF" />
-</a>
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=8B7FFF" />
-</a>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ============ SUPPORT SECTION ============ -->
-<h2 align="center">🜈&nbsp; FUEL THE MISSION</h2>
-
 <div align="center">
-
-<sub>If something I built made your day a little easier — consider fueling the next one.</sub>
-
-<br/><br/>
-
-<a href="https://buymeacoffee.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0D0221?style=for-the-badge&logo=buymeacoffee&logoColor=A78BFA" />
-</a>
-
+<sub>◈ Always open to conversations on AI, ML, and building things worth building ◈</sub>
 </div>
 
 <br/><br/>
