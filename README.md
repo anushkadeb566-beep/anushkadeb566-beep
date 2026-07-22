@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="pixel rabbits jumping over a graph" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8A5C2,100:FF69B4&height=3&section=header" width="100%" />
-
 <br/>
 
 # ⋆｡‧˚ ANUSHKA DEB ˚‧｡⋆
@@ -22,13 +18,9 @@
 
 <div align="center">
 
-<img src="assets/pixel-character.jpg" alt="My Melody pixel character" width="150" align="left" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=900&color=FFFFFF&background=1A1A1AFF&center=true&vCenter=true&repeat=true&width=420&height=90&lines=HELLO+WORLD%21;LOADING...;PRESS+START" alt="Hello World terminal" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=900&color=FFFFFF&background=1A1A1AFF&center=true&vCenter=true&repeat=true&width=420&height=90&lines=HELLO+WORLD%21;LOADING...;PRESS+START" alt="Hello World terminal" align="center" />
 
 <br clear="both" /><br/>
-
-<sub><i>‹ old-school loading screen · graph grid in the background › </i></sub>
 
 <br/><br/>
 
@@ -78,8 +70,6 @@ to real-world problems.
 <br/>
 
 <div align="center">
-
-<img src="assets/hearts-divider.jpg" alt="pixel hearts divider" width="180" />
 
 <br/><br/>
 
@@ -149,14 +139,12 @@ to real-world problems.
 
 <br/>
 
-<img src="assets/cursor.jpg" width="26" align="left" />&nbsp;
 <a href="mailto:anushkadeb566@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="assets/cursor.jpg" width="26" align="left" />&nbsp;
 <a href="https://www.linkedin.com/in/anushka-deb-318702273" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-F8A5C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -175,11 +163,8 @@ to real-world problems.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8A5C2,100:FF69B4&height=2&section=header" width="60%" />
 
 <br/><br/>
-
-<img src="assets/banner.jpg" width="220" />
 
 <br/>
 
